@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Morning",
+      "startTime": "9am",
+      "endTime": "12am",
+      "duration": 180,
+      "talksAllowed" : true
+    },
+    {
+      "name": "Lunch",
+      "startTime": "12pm",
+      "endTime": "1pm",
+      "duration": 120,
+      "talksAllowed" : false
+    },
+    {
+      "name": "Afternoon",
+      "startTime": "1pm",
+      "endTime": "3pm",
+      "duration": 120,
+      "tasksAllowed" : true
+    },
+    {
+      "name": "Evening",
+      "startTime": "4pm",
+      "endTime": "7pm",
+      "duration": 100,
+      "tasksAllowed" : true
+    }
+]

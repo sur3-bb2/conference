@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Morning",
+    "startTime": "09:00 am",
+    "endTime": "12:00 pm",
+    "duration": 180,
+    "talksAllowed" : true
+  },
+  {
+    "name": "Lunch",
+    "startTime": "12:00 pm",
+    "endTime": "01:00 pm",
+    "duration": 120,
+    "talksAllowed" : false
+  },
+  {
+    "name": "Afternoon",
+    "startTime": "01:00 pm",
+    "endTime": "05:00 pm",
+    "duration": 240,
+    "talksAllowed" : true
+  }
+]
